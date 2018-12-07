@@ -3,8 +3,9 @@ import './App.css';
 
 class App extends Component {
   render() {
+    // css class names should be included as className instead of class
     // return (
-    //   <div className="App">     // css class names should be included as className instead of class
+    //   <div className="App">
     //     <h1>Hello world !! React</h1>
     //   </div>
     // );
